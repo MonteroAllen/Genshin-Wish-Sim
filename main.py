@@ -73,39 +73,6 @@ def wishsim():
     
     newlist.append(firstofpity())
 
-
-    #standardroll
-    # def regularroll():
-    #     if (wish in (range(160))):
-    #         fifty = random.randint(1,2)
-    #         print(fifty)
-    #         if fifty == 1 or fstarPity == 1:
-    #             fiftypity = 0
-    #             return(banner5Stars[0])
-    #         if fifty == 2:
-    #             fiftypity = 1
-    #             return(standard5Stars[random.randint(0,4)])
-        
-
-
-
-
-
-
-    # print(wish)
-    
-    # if fiveStarPity == 0 & firstwish == True:
-    #     firstofpity()
-
-    # elif fiveStarPity >= 0:
-    #     if (wish in (range())):
-    #         fifty = random.randint(1,2)
-    #         print(fifty)
-    #         if fifty == 1 or fiftypity == 1:
-    #             return(banner5Stars[0])
-    #         if fifty == 2:
-    #             return(standard5Stars[random.randint(0,4)])
-    
 wishcount = 90
 while wishcount > 0:
     wishsim()
